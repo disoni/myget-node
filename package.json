@@ -1,6 +1,6 @@
 {
   "name": "myget-node",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "small library to test publish workflow to myget",
   "main": "index.js",
   "scripts": {
