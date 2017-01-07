@@ -1,0 +1,19 @@
+{
+  "name": "myget-node",
+  "version": "1.0.0",
+  "description": "small library to test publish workflow to myget",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/disoni/myget-node.git"
+  },
+  "author": "Dishant Soni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/disoni/myget-node/issues"
+  },
+  "homepage": "https://github.com/disoni/myget-node#readme"
+}
